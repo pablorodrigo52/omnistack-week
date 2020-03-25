@@ -1,2 +1,2 @@
 # omnistack-week
-Study Node.js, React and a little SQL
+Node.js, React and a little SQL
