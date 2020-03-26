@@ -1,9 +1,7 @@
 const express = require('express');
+const route = express.Router();
 
-const app = express();
-app.use(express.json()); //wll pass a json in a body of my requests
-
-app.get('/rota', (request,response)=>{
+route.get('/rota', (request,response)=>{
     const qParams = request.query; //url params
     const body = request.body; // 
     console.log(body);
@@ -14,7 +12,7 @@ app.get('/rota', (request,response)=>{
     });
 });
 
-app.get('/rota/:id', (request,response)=>{
+route.get('/rota/:id', (request,response)=>{
     const rParams = request.params; // route params
     response.json({
         nome: 'Pablo Rodrigo',
@@ -23,4 +21,5 @@ app.get('/rota/:id', (request,response)=>{
     });
 });
 
-app.listen(3333);
+
+module.exports = route;
