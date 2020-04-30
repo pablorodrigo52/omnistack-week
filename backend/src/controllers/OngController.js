@@ -45,6 +45,4 @@ route.get('/rota/:id', (request,response)=>{
     });
 });
 */
-
-
 };

@@ -1,21 +1,10 @@
-import React, {useState} from 'react';
-import Header from './Header';
+import React from 'react';
+import './global.css';
+import Routes from './routes';
 
 function App() {
-  let [counter, updateCounter] = useState(0); // immutable so i need "setState" to overlay the var..
-
-  function incrementCounter()
-  {
-    updateCounter(counter++);
-  }
-
   return (
-    <div>
-      <Header title="Contador">
-        {counter}
-      </Header>
-      <button onClick={incrementCounter}> Incrementar </button>
-    </div>
+    <Routes />
   );
 }
 
