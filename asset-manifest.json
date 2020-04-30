@@ -1,19 +1,24 @@
 {
   "files": {
-    "main.js": "/omnistack-week/static/js/main.3fdff300.chunk.js",
-    "main.js.map": "/omnistack-week/static/js/main.3fdff300.chunk.js.map",
+    "main.css": "/omnistack-week/static/css/main.b46a7b9e.chunk.css",
+    "main.js": "/omnistack-week/static/js/main.29127ab7.chunk.js",
+    "main.js.map": "/omnistack-week/static/js/main.29127ab7.chunk.js.map",
     "runtime-main.js": "/omnistack-week/static/js/runtime-main.25ea6f76.js",
     "runtime-main.js.map": "/omnistack-week/static/js/runtime-main.25ea6f76.js.map",
-    "static/js/2.116eabdc.chunk.js": "/omnistack-week/static/js/2.116eabdc.chunk.js",
-    "static/js/2.116eabdc.chunk.js.map": "/omnistack-week/static/js/2.116eabdc.chunk.js.map",
+    "static/js/2.2b93c1ba.chunk.js": "/omnistack-week/static/js/2.2b93c1ba.chunk.js",
+    "static/js/2.2b93c1ba.chunk.js.map": "/omnistack-week/static/js/2.2b93c1ba.chunk.js.map",
     "index.html": "/omnistack-week/index.html",
-    "precache-manifest.d83274059a54a84c783771a389965c86.js": "/omnistack-week/precache-manifest.d83274059a54a84c783771a389965c86.js",
+    "precache-manifest.c759ffa59f491e3fa552d5058a3f0ec1.js": "/omnistack-week/precache-manifest.c759ffa59f491e3fa552d5058a3f0ec1.js",
     "service-worker.js": "/omnistack-week/service-worker.js",
-    "static/js/2.116eabdc.chunk.js.LICENSE.txt": "/omnistack-week/static/js/2.116eabdc.chunk.js.LICENSE.txt"
+    "static/css/main.b46a7b9e.chunk.css.map": "/omnistack-week/static/css/main.b46a7b9e.chunk.css.map",
+    "static/js/2.2b93c1ba.chunk.js.LICENSE.txt": "/omnistack-week/static/js/2.2b93c1ba.chunk.js.LICENSE.txt",
+    "static/media/heroes.png": "/omnistack-week/static/media/heroes.1f4b5508.png",
+    "static/media/logo.svg": "/omnistack-week/static/media/logo.7eea718b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.25ea6f76.js",
-    "static/js/2.116eabdc.chunk.js",
-    "static/js/main.3fdff300.chunk.js"
+    "static/js/2.2b93c1ba.chunk.js",
+    "static/css/main.b46a7b9e.chunk.css",
+    "static/js/main.29127ab7.chunk.js"
   ]
 }
