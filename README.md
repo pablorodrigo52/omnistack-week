@@ -1,5 +1,5 @@
 # omnistack-week
 Node.js, React and a little SQL (with SQLite)
 
-# Frontend
-- Access: https://pablorodrigo52.github.io/omnistack-week/
+# What is
+This is a web project developed at a omnistack-week by Rocketseat
